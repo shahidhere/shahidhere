@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shahid Ali(@shahidher)
+- 👋 Hi, I’m Shahid Ali(@shahidhere)
 - 👀 I’m interested in Web development and competitive programming.
 - 🌱 I’m currently learning Full stack webd and C++.
 - 💞️ I’m looking to collaborate on Web development.
