@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shahid Ali(@shahidhere)
-- 👀 I’m interested in Web development and competitive programming.
+- 👀 I’m interested in Web development and Blockchain Development.
 - 🌱 I’m currently learning Full stack webd and C++.
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 Connect with me on Likedin(https://www.linkedin.com/in/shahid-ali-848a571a5/)
